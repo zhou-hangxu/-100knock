@@ -1,0 +1,20 @@
+正規表現を確定：https://regex101.com/
+正規表現re：https://docs.python.org/ja/3/library/re.html
+
+import knock20 : knock20のコードを使う
+from knock20 import func
+if __name__ == "__main__":
+    print(hogr)
+
+
+unzip：
+with gzip.open('jawiki-country.json.gz', 'rt') as f:
+    for line in f:
+        content = json.loads(line) # type-str so s is added
+        if ("title","イギリス") in content.items():
+            eng = content["text"]
+
+正規表現の速度：https://muoilog.xyz/web-development/python%E3%81%AE%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%8F%BE%E3%81%AE%E5%AE%9F%E8%A1%8C%E9%80%9F%E5%BA%A6/
+pythonの正規表現：https://qiita.com/luohao0404/items/7135b2b96f9b0b196bf3
+
+詳細　正規表現：https://www.oreilly.co.jp/books/9784873113593/

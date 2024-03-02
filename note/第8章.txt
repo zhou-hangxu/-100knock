@@ -1,0 +1,19 @@
+classは最初大文字にするイメージがあります
+https://yottagin.com/?p=2684
+transformer: https://arxiv.org/abs/2306.07303
+NN: https://www.3blue1brown.com/topics/neural-networks
+pytorch, dataset: https://zenn.dev/megane_otoko/articles/074_simple_pytorch
+pytorch, dataloader: https://qiita.com/tomp/items/3bf6d040bbc89a171880
+
+85——
+https://www.ism.ac.jp/openhouse/2023/pre_event.html「統計的機械学習」の中核としての統計数理シンポジウム（オンライン開催）
+torch.save: https://qiita.com/jyori112/items/aad5703c1537c0139edb
+
+https://venoda.hatenablog.com/entry/2020/10/25/230059
+torch.save(the_model.state_dict(), PATH)
+
+minibach: https://dajiro.com/entry/2020/04/15/221414
+
+paper: https://ai-scholar.tech/articles/deep-learning/manual_seed
+
+

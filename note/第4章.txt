@@ -1,0 +1,23 @@
+pythonで\u200bと\u3000を消す：https://program-shoshinsya.hatenablog.com/entry/2020/01/26/225237
+
+unidic：https://clrd.ninjal.ac.jp/unidic/faq.html
+
+文字列を区切る：https://note.nkmk.me/python-split-rsplit-splitlines-re/
+
+os.path.join：https://qiita.com/keishi04hrikzira/items/83e323f1c3d119d2bb77
+
+and：https://codechacha.com/ja/python-difference-and-ampersand/
+   print(1 == 1 and 2 == 2) # True
+   print(1 == 1 & 2 == 2) # False
+   print((1 == 1) & (2 == 2)) # True
+
+collections：https://qiita.com/apollo_program/items/165fb01b52702274936c
+
+matplotlib, japanese: https://tech-market.org/matplotlib-japanese/
+
+文字列データの前処理: https://note.com/narudesu/n/na35de30a583a#JUDmI
+
+言語とフラクタル: https://www.amazon.co.jp/dp/4130802577
+
+
+

@@ -1,0 +1,10 @@
+self: https://qiita.com/baby-0105/items/c7b2d9b22780a326e4b7
+docstring: https://qiita.com/flcn-x/items/393c6f1f1e1e5abec906
+docstring: https://atmarkit.itmedia.co.jp/ait/articles/1912/06/news025.html
+
+# knock44
+# 与えられた文の係り受け木を有向グラフとして可視化せよ．可視化には，Graphviz等を用いるとよい．
+# brew install graphviz
+# pip3 install graphviz
+
+

@@ -1,0 +1,11 @@
+questions: https://nlp100.github.io/zh/
+
+github: https://github.com/tmu-nlp/100knock2023
+
+word: https://docs.google.com/document/d/1imV2GjUz0Otw4MGQEJQc4rGTe0qIATqX6PqkrAdLzD8/edit
+
+chapter10: https://drive.google.com/drive/folders/1Z2fAkNvIPmwAvyo7CYNTqAcks5Xc6Rcq?usp=sharing
+chapter09: https://drive.google.com/drive/folders/1mKhL7IVFWmVLrnAL3kzGoaCY1AnxYyFF?usp=sharing
+chapter08: https://drive.google.com/drive/folders/1f23Os-FzPSj0Rqzz-gCd_aQx_URm0g0C?usp=sharing
+chapter07: https://drive.google.com/drive/folders/188Gj9dUCRPHAi-90gvvP_k6BvnpHdkny?usp=sharing
+

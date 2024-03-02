@@ -1,0 +1,18 @@
+map() リストの要素に関数・処理を適用: https://note.nkmk.me/python-map-usage/
+_split.py: https://github.com/scikit-learn/scikit-learn/blob/364c77e04/sklearn/model_selection/_split.py#L2463
+scikit-learn: https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html#sklearn.feature_extra[…].text.TfidfVectorizer
+https://github.com/scikit-learn/scikit-learn/blob/364c77e04/sklearn/feature_extraction/text.py#L1758
+fit transform: https://twdlab.hatenablog.com/entry/2019/04/11/181329
+
+Data Science Stack Exchange: https://datascience.stackexchange.com/questions/12321/whats-the-difference-between-fit-and-fit-transform-in-scikit-learn-models/12346#12346
+logistic: https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+ https://datawokagaku.com/multinomial/
+seaborn: https://seaborn.pydata.org/generated/seaborn.heatmap.html
+分類タスク: https://qiita.com/jyori112/items/110596b4f04e4e1a3c9b
+
+F1:
+https://qiita.com/keiji_dl/items/0a8130aea8233fca92e0
+https://qiita.com/niship2/items/903588692d5764cdbf17
+
+［評価関数］決定係数（Coefficient of Determination）R2: https://atmarkit.itmedia.co.jp/ait/articles/2108/25/news033.html
+tqdm: https://qiita.com/pontyo4/items/76145cb10e030ad8186a

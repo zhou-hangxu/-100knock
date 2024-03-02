@@ -1,0 +1,23 @@
+counter: 
+https://note.nkmk.me/python-collections-counter/
+
+torch.optim: 
+https://rightcode.co.jp/blog/information-technology/torch-optim-optimizer-compare-and-verify-update-process-and-performance-of-optimization-methods
+
+モデル訓練などで可視化によく使うツールの一つ：Tensorboard
+https://deepage.net/tensorflow/2017/04/25/tensorboard.html
+
+あともう一つバカ強いツールを紹介します
+https://wandb.ai/site/jp-home
+
+66：
+optuna：
+https://www.preferred.jp/ja/projects/optuna/
+https://optuna.org/
+
+lstm：
+https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html
+
+Neural Networks and the Chomsky Hierarchy：
+https://arxiv.org/abs/2207.02098
+

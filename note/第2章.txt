@@ -1,0 +1,8 @@
+import sys, sys.argv[1]
+
+  sys: https://qiita.com/jp0003menegi/items/fbf407af7d294c09481a
+  bash: https://qiita.com/autotaker1984/items/bc758fcf368c1a167353
+  shebang: https://qiita.com/miyuki_samitani/items/59b1f1cb6468f42f9799
+
+the reason of closing file in python: https://stackoverflow.com/questions/25070854/why-should-i-close-files-in-python
+sort,sorted:  https://note.nkmk.me/python-list-sort-sorted/  

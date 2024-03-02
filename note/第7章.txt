@@ -1,0 +1,11 @@
+単語ベクトルの解説文： https://qiita.com/kenta1984/items/6dc327c31b6c36e66863
+word2vec: https://qiita.com/g-k/items/69afa87c73654af49d36
+index: https://radimrehurek.com/gensim/auto_examples/index.html#documentation
+スピアマン：https://corvus-window.com/all_spearmans-rank-correlation/
+二つの相関係数：https://webbeginner.hatenablog.com/entry/2020/06/26/120000
+国連データ：http://www.fao.org/countryprofiles/iso3list/en/
+Ward法：https://www.kamishima.net/archive/clustering.pdf
+cluster: https://scikit-learn.org/stable/modules/clustering.html
+t-sne: https://qiita.com/g-k/items/120f1cf85ff2ceae4aba
+
+
